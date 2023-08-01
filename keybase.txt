@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/ak91
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://aka91hu.github.io
+  * I am ak91 (https://keybase.io/ak91) on keybase.
+  * I have a public key ASDpxLuE5tDVJ_5ySmKWSGFtfyo-qONo9DNoFz5ROcPcVQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120e9c4bb84e6d0d527fe724a629648616d7f2a3ea8e368f43368173e5139c3dc550a",
+      "host": "keybase.io",
+      "kid": "0120e9c4bb84e6d0d527fe724a629648616d7f2a3ea8e368f43368173e5139c3dc550a",
+      "uid": "cda3594cce921a177940f66669d01f19",
+      "username": "ak91"
+    },
+    "merkle_root": {
+      "ctime": 1690895369,
+      "hash": "06d56c75ca8bb20f36be1845dc38fa82e78dd90ee52a7c12cc9fc5b590edb8e05e70f4f6fc5bfe01ce4f889f4c70d02667b6a6252d45096d0676a1a69211eed7",
+      "hash_meta": "7037186eec9f9943f5c0b07337c53748e9785a908985c25983ecd404484605c8",
+      "seqno": 24756018
+    },
+    "service": {
+      "entropy": "iFuOA0ybvR45Ief0uhnFARxw",
+      "hostname": "aka91hu.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.2.1"
+  },
+  "ctime": 1690895401,
+  "expire_in": 504576000,
+  "prev": "41adace2b28081b08db94de27abf677b020ddf9ad8f7914b3163bf9a518d1a8c",
+  "seqno": 14,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg6cS7hObQ1Sf+ckpilkhhbX8qPqjjaPQzaBc+UTnD3FUKp3BheWxvYWTESpcCDsQgQa2s4rKAgbCNuU3ier9newIN35rY95FLMWO/mlGNGozEIIXrsoiJtgeJPqqQefm6gMhoTpGyLdLjLHwUOb6/Ck9oAgHCo3NpZ8RA9wxshs7iwuKDXmhaaX0HM9NoHcLDd5rqe3/fnVYsompFDjZnExtGRk6HfJf4HR/69ywVieX9aSQKXXA+qjaeDahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIA4seW+79/MM2xm+iTir/0XLJCjsN7B1lSQ7acSisYjXo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ak91
+
+==================================================================
